@@ -108,7 +108,7 @@
 <body>
 
 <header>
-    <div style="font-size: 1.5rem; font-weight: bold; color: var(--primary);">SEU NOME</div>
+    <div style="font-size: 1.5rem; font-weight: bold; color: var(--primary);">Escrita Criativa Em Ação</div>
     <nav>
         <a href="#servicos">Serviços</a>
         <a href="#sobre">Trajetória</a>
