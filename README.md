@@ -146,7 +146,7 @@
 </section>
 
 <footer>
-    &copy; 2023 Seu Nome - Consultoria Literária. Todos os direitos reservados.
+    &copy; 2023 Escritacriativaemação - Consultoria Literária. Todos os direitos reservados.
 </footer>
 
 </body>
