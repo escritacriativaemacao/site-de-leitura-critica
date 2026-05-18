@@ -135,7 +135,7 @@
 
 <section id="sobre" class="about">
     <h2>Sobre Minha Trajetória</h2>
-    <p>Escreva aqui um pouco sobre sua formação, os livros que já leu ou escreveu, e sua paixão pela literatura. Destaque sua experiência no mercado editorial ou acadêmico.</p>
+    <p>Renato Reis é escritor, autor de "As ruínas do mundo" um romance de fantasia sombria, e "A Odisseia e o mito do retorno ao lar" uma releitura simbólica da Odisseia adaptada para o público juvenil. Além disso, ele é     um leitor voraz, apaixonado por livros e por literatura, o que o levou a se formar em biblioteconomia pelo Centro Universitário Assunção (UNIFAI). Atualmente, ele vem se dedicado ao estudo da narrativa e da arte da        escrita, prestando consultoria a outros escritores em início de carreira. </p>
 </section>
 
 <section id="contato" class="contact">
@@ -146,7 +146,7 @@
 </section>
 
 <footer>
-    &copy; 2023 Escritacriativaemação - Consultoria Literária. Todos os direitos reservados.
+    &copy; 2026 Escritacriativaemação - Consultoria Literária. Todos os direitos reservados.
 </footer>
 
 </body>
