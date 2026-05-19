@@ -118,7 +118,7 @@
 
 <section class="hero">
     <h1>Transforme seu manuscrito em uma obra memorável.</h1>
-    <p>Leitura crítica e consultoria em escrita criativa com foco em técnica, voz e mercado. Aqui você irá receber uma orientação de qualidade com o objetivo </p> <p>de capacitá-lo nas técnicas narrativas, destacando-o no        mercado de editorial.</p>                                                                                                                                                                                
+    <p>Leitura crítica e consultoria em escrita criativa com foco em técnica, voz e mercado. Aqui você irá receber uma orientação de qualidade com o objetivo de capacitá-lo nas técnicas narrativas, destacando-o no        mercado de editorial. </p>                                                                                                                                                                           
     <a href="#contato" class="btn">Solicitar Orçamento</a>
 </section>
 
