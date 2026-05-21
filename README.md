@@ -141,7 +141,7 @@
 <section id="contato" class="contact">
     <h2>Vamos conversar?</h2>
     <p>Para orçamentos, envie os detalhes do seu projeto (Gênero e número de caracteres).</p>
-    <p><strong>Email:</strong> seuemail@exemplo.com</p>
+    <p><strong>Email:</strong> escritacriativaemacao@gmail.com</p>
     <a href="mailto:seuemail@exemplo.com" class="btn" style="background: var(--primary);">Enviar E-mail</a>
 </section>
 
