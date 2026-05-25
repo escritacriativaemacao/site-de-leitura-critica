@@ -118,7 +118,7 @@
 
 <section class="hero">
     <h1>Transforme seu manuscrito em uma obra memorável.</h1>
-    <p>Damos vida à sua narrativa e desenvolvemos sua voz autoral através de nossas oficinas de escrita criativa. Acreditamos que todo texto merece ser extraordinário, por isso, cada leitura é única, cada voz é                respeitada. Não apenas "corrigimos" palavras; ajudamos o autor a encontrar o coração da sua história</p>                                                                                                                                                                           
+    <p>Damos vida à sua narrativa e desenvolvemos sua voz autoral através de nossas oficinas de escrita criativa. Acreditamos que todo texto merece ser extraordinário, por isso, cada leitura é única, cada voz é                respeitada. Não apenas "corrigimos" palavras; ajudamos o autor a encontrar o coração da sua história.</p>                                                                                                                                                                           
     <a href="#contato" class="btn">Solicitar Orçamento</a>
 </section>
 
