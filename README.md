@@ -125,17 +125,17 @@
 <section id="servicos" class="services">
     <div class="service-card">
         <h3>Leitura Crítica</h3>
-        <p>Análise técnica detalhada do seu livro (ritmo, personagens, furos de roteiro). Você recebe um relatório abrangente orientando os próximos passos da revisão.</p>
+        <p>Uma análise técnica e sensível do seu manuscrito. Avaliamos estrutura, ritmo, arco de personagens e coerência narrativa para elevar a qualidade da sua obra antes da publicação.</p>
     </div>
     <div class="service-card">
-        <h3>Consultoria de Escrita</h3>
+        <h3>Escrita Criativa</h3>
         <p>Acompanhamento personalizado para destravar sua escrita, organizar seu projeto literário ou realizar o planejamento de mundo (worldbuilding).</p>
     </div>
 </section>
 
 <section id="sobre" class="about">
     <h2>Sobre Minha Trajetória</h2>
-    <p>Renato Reis é escritor e bibliotecário, autor de "As ruínas do mundo" um romance de fantasia sombria, e "A Odisseia e o mito do retorno ao lar" uma releitura simbólica da Odisseia adaptada para o público juvenil. Além disso, ele é     um leitor voraz, apaixonado por livros e por literatura, o que o levou a se formar em biblioteconomia pelo Centro Universitário Assunção (UNIFAI). Atualmente, ele vem se dedicado ao estudo da narrativa e da arte da        escrita, prestando consultoria a outros escritores em início de carreira. </p>
+    <p>Renato Reis é escritor e bibliotecário, autor de "As ruínas do mundo" um romance de fantasia sombria, e "A Odisseia e o mito do retorno ao lar" uma releitura simbólica da Odisseia adaptada para o público juvenil. Além disso, ele é um leitor voraz, apaixonado por livros e por literatura, o que o levou a se formar em biblioteconomia pelo Centro Universitário Assunção (UNIFAI). Atualmente, ele vem se dedicado ao estudo da narrativa e da arte da escrita, prestando consultoria a outros escritores em início de carreira. </p>
 </section>
 
 <section id="contato" class="contact">
